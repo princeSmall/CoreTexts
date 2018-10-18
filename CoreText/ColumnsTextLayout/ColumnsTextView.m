@@ -4,8 +4,8 @@
 //  ColumnsTextView.m
 //  CoreText
 //
-//  Created by le tong on 2018/8/30.
-//  Copyright © 2018年 le tong. All rights reserved.
+//  Created by iOS on 2018/8/30.
+//  Copyright © 2018年 iOS. All rights reserved.
 //
 
 #import "ColumnsTextView.h"
