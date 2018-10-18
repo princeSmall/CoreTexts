@@ -1,6 +1,6 @@
 ## CoreText
 
-#### layingOut
+####  layingOut
 <pre>
 - (void)drawRect:(CGRect)rect {
     // Drawing code
